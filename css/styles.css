@@ -304,7 +304,7 @@ img {
 .team-icon-list {
     display: flex;
     justify-content: center;
-    gap: 16px;
+    gap: 24px;
 }
 .team-icon-item {
     width: 40px;
@@ -314,7 +314,6 @@ img {
 }
 .team-icon {
     display: block;
-    gap: 24px;
     fill: #f4f4fd;
 }
 
