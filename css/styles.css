@@ -314,7 +314,7 @@ img {
 }
 .team-icon {
     display: block;
-    margin: 12px auto;
+    gap: 24px;
     fill: #f4f4fd;
 }
 
@@ -327,7 +327,6 @@ img {
   background-color: #4d5ae5;
   border-radius: 50%;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  gap: 24px;
 }
 
 .team-icon-link:hover,
@@ -382,9 +381,7 @@ img {
     letter-spacing: 0.02em;
     top: 0;
     left: 0;
-    padding-top: 40px;
-    padding-right: 32px;
-    padding-left: 32px;
+    padding: 40px 32px;
     color: #f4f4fd;
     background-color: #4d5ae5;
     width: 100%;
